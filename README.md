@@ -105,7 +105,7 @@
         <!--<a href="https://github.com/laura-guardia-vela/Final-Degree-Project.git" target="_blank">
           <img src="https://img.shields.io/badge/CODE-e2d0e9?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Badge">
         </a>-->
-        <a href="https://drive.google.com/uc?export=download&id=1rq0hpY_gqRnOPZCpoCMAUqFKYbzMDQLM" target="_blank">
+        <a href="https://drive.google.com/file/d/1zaympW8dD7P2AGHrTnf8YSwo_u_ZGWXA/view?usp=drive_link" target="_blank">
           <img src="https://img.shields.io/badge/Download%20ZIP-808080?style=for-the-badge&logo=&logoColor=white" alt="Download Badge">
         </a>
       </p>
