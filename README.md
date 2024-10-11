@@ -66,6 +66,22 @@
 
 **Videogames**
 <td width="50%">
+<h3 align="center">Final Degree Project</h3>
+<div align="center">
+<a href="https://github.com/laura-guardia-vela/Final-Degree-Project.git" target="_blank"><img src="https://i.imghippo.com/files/0M46C1728669679.png" alt="" border="0"></a>
+<p>
+<a href="https://github.com/laura-guardia-vela/Final-Degree-Project.git" target="_blank">
+<img src="https://img.shields.io/badge/CODE-e2d0e9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>Design and development of three full-body experiences to analyze the embodied properties of users in a Mixed Reality system to reduce the system’s physical footprint.
+Design and development in Unity of three games that involve full-body interaction to assess the embodiment properties, defined by the research group, at different sizes of the play environment.
+</p>
+</div>
+                                                                                      
+</td>
+
+<td width="50%">
 <h3 align="center">BosCoop</h3>
 <div align="center">
 <a href="https://github.com/LauraGuardiaVela/FINAL-PROJECT-BOSCOOP" target="_blank"><img src="https://i.imghippo.com/files/m7RTR1726360644.png" alt="" border="0"></a>
