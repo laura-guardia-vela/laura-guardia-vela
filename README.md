@@ -106,7 +106,7 @@
           <img src="https://img.shields.io/badge/CODE-e2d0e9?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Badge">
         </a>-->
         <a href="https://drive.google.com/uc?export=download&id=1rq0hpY_gqRnOPZCpoCMAUqFKYbzMDQLM" target="_blank">
-          <img src="https://img.shields.io/badge/Download%20ZIP-e47ba3?style=for-the-badge&logo=c&logoColor=white" alt="Download Badge">
+          <img src="https://img.shields.io/badge/Download%20ZIP-808080?style=for-the-badge&logo=&logoColor=white" alt="Download Badge">
         </a>
       </p>
       <p>Design and development of three full-body experiences to analyze the embodied properties of users in a Mixed Reality system to reduce the system’s physical footprint.</p>
@@ -136,7 +136,7 @@
           <img src="https://img.shields.io/badge/YOUTUBE-ebc6d4?style=for-the-badge&logo=youtube&logoColor=black" alt="YouTube Badge">
         </a>
         <a href="https://drive.google.com/uc?export=download&id=1rq0hpY_gqRnOPZCpoCMAUqFKYbzMDQLM" target="_blank">
-          <img src="https://img.shields.io/badge/Download%20ZIP-e47ba3?style=for-the-badge&logo=c&logoColor=white" alt="Download Badge">
+          <img src="https://img.shields.io/badge/Download%20ZIP-e47ba3?style=for-the-badge&logo=&logoColor=white" alt="Download Badge">
         </a>
       </p>
       <p>A character visiting Willy Wonka's factory who must return to the real world. Developed with C.</p>
@@ -147,8 +147,11 @@
         <img src="https://i.imghippo.com/files/6q9BJ1728666777.png" alt="A la Deriva Image" width="80%" />
       </a>
       <p>
-        <a href="https://github.com/laura-guardia-vela/A-la-Deriva" target="_blank">
+        <!--<a href="https://github.com/laura-guardia-vela/A-la-Deriva" target="_blank">
           <img src="https://img.shields.io/badge/CODE-e2d0e9?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Badge">
+        </a>-->
+        <a href="https://drive.google.com/uc?export=download&id=1rq0hpY_gqRnOPZCpoCMAUqFKYbzMDQLM" target="_blank">
+          <img src="https://img.shields.io/badge/Download%20ZIP-008080?style=for-the-badge&logo=&logoColor=white" alt="Download Badge">
         </a>
       </p>
       <p>A relaxing outer space setting where the player takes on the role of an astronaut searching for their companions. Developed in Unity.</p>
@@ -163,7 +166,7 @@
       </a>
       <p>
         <a href="https://github.com/laura-guardia-vela/Multiple-Linear-Regression.git" target="_blank">
-          <img src="https://img.shields.io/badge/CODE-e2d0e9?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Badge">
+          <img src="https://img.shields.io/badge/CODE-1e0ea5?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Badge">
         </a>
       </p>
       <p>Statistical analysis on public and private healthcare expenditure and its correlation with life expectancy. Developed using Matlab.</p>
@@ -175,7 +178,7 @@
       </a>
       <p>
         <a href="https://github.com/laura-guardia-vela/Chatbot" target="_blank">
-          <img src="https://img.shields.io/badge/CODE-e2d0e9?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Badge">
+          <img src="https://img.shields.io/badge/CODE-1ee6df?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Badge">
         </a>
       </p>
       <p>Chatbot for an imaginary cafeteria.</p>
