@@ -1,6 +1,7 @@
-## Hi there 👋
+## Hi, I'm Laura👋
 
-<!--
+<img src="https://www.imghippo.com/i/s6EwC1728655494.png" alt="" border="0">
+
 **laura-guardia-vela/laura-guardia-vela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
