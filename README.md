@@ -190,6 +190,107 @@
 ## 🖌️ 3D Art Projects
 
 
+### Isometric Rooms
+<table border="0">
+  <tr>
+    <td align="center">
+      <img src="https://i.imghippo.com/files/ajJgw1728674844.png" alt="Project 1" width="500px"/>
+    </td>
+    <td align="center">
+      <img src="https://i.imghippo.com/files/FHyTU1728674874.png" alt="Project 2" width="500px"/>
+    </td>
+    <td align="center">
+      <img src="https://i.imghippo.com/files/GBMe41728674888.png" alt="Project 3" width="500px"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://i.imghippo.com/files/Wc6jD1728674905.png" alt="Project 4" width="500px"/>
+    </td>
+    <td align="center">
+      <img src="https://i.imghippo.com/files/tK2ot1728674923.png" alt="Project 5" width="500px"/>
+    </td>
+    <td align="center">
+      <img src="https://i.imghippo.com/files/U5LoG1728674937.png" alt="Project 6" width="500px"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://i.imghippo.com/files/Uf55B1728674949.png" alt="Project 7" width="500px"/>
+    </td>
+    <td align="center">
+      <img src="https://i.imghippo.com/files/x7Iq21728674962.png" alt="Project 8" width="500px"/>
+    </td>
+    <td align="center">
+      <img src="https://i.imghippo.com/files/fqXPH1728674976.png" alt="Project 9" width="500px"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://i.imghippo.com/files/i5fej1728674991.png" alt="Project 10" width="500px"/>
+    </td>
+    <td align="center">
+      <img src="https://i.imghippo.com/files/ibUbl1728675002.png" alt="Project 11" width="500px"/>
+    </td>
+    <td align="center">
+      <img src="https://i.imghippo.com/files/Uicpn1728675013.png" alt="Project 12" width="500px"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://i.imghippo.com/files/87jy31728675125.png" alt="Project 13" width="500px"/>
+    </td>
+    <td align="center">
+      <img src="https://i.imghippo.com/files/3vGRA1728675143.png" alt="Project 14" width="500px"/>
+    </td>
+  </tr>
+</table>
+
+### Food
+<table border="0">
+  <tr>
+    <td align="center">
+      <img src="URL_IMATGE_PROJECTE_4" alt="Project 4" width="800px"/>
+    </td>
+    <td align="center">
+      <img src="URL_IMATGE_PROJECTE_5" alt="Project 5" width="800px"/>
+    </td>
+    <td align="center">
+      <img src="URL_IMATGE_PROJECTE_6" alt="Project 6" width="800px"/>
+    </td>
+  </tr>
+</table>
+
+### Characters
+<table border="0">
+  <tr>
+    <td align="center">
+      <img src="URL_IMATGE_PROJECTE_7" alt="Project 7" width="800px"/>
+    </td>
+    <td align="center">
+      <img src="URL_IMATGE_PROJECTE_8" alt="Project 8" width="800px"/>
+    </td>
+    <td align="center">
+      <img src="URL_IMATGE_PROJECTE_9" alt="Project 9" width="800px"/>
+    </td>
+  </tr>
+</table>
+
+### Animations
+<table border="0">
+  <tr>
+    <td align="center">
+      <img src="URL_IMATGE_PROJECTE_10" alt="Project 10" width="800px"/>
+    </td>
+    <td align="center">
+      <img src="URL_IMATGE_PROJECTE_11" alt="Project 11" width="800px"/>
+    </td>
+    <td align="center">
+      <img src="URL_IMATGE_PROJECTE_12" alt="Project 12" width="800px"/>
+    </td>
+  </tr>
+</table>
+
 
 ## 📫 Contact
 - **Email**: lauraguardiavela2@gmail.com
