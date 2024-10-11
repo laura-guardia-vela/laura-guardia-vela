@@ -92,7 +92,7 @@
   </tr>
 </table>
 
-## 🖱️ Projects
+## 🖱️ Software Projects
 
 <table>
   <tr>
@@ -184,7 +184,8 @@
 
 </table>
 
-**3D Artist**
+## 🖌️ 3D Art Projects
+
 
 
 ## 📫 Contact
