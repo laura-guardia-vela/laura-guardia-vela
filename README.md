@@ -105,7 +105,7 @@
 <img src="https://img.shields.io/badge/CODE-e2d0e9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Interactive system using <span style="color:#e2d0e9;"><strong>HTC Vive</strong></span> and developed with <span style="color:#e2d0e9;"><strong>Unity</strong></span> to promote cooperation between users in virtual environments. There are mini-games that activate different abilities of the human body, and users have to work together to complete the game.</p>
+<p>A videogame adaptation of the story "Caleidoscopio” of Ray Bradbury. Considering the theme of the story, we wanted to give our video game a relaxing outer space setting, focused on the dance between asteroids and how to dodge them. The main idea was for the player to take on the role of an astronaut whose goal was to search for their companions in order to share the final moments together within a time limit. Developed in Unity.</p>
 </div>
 
 **Software**
