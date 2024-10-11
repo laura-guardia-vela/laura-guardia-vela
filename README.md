@@ -189,59 +189,58 @@
 
 ## 🖌️ 3D Art Projects
 
-
 ### Isometric Rooms
 <table border="0">
   <tr>
     <td align="center">
-      <img src="https://i.imghippo.com/files/ajJgw1728674844.png" alt="Project 1" width="500px"/>
+      <img src="https://i.imghippo.com/files/ajJgw1728674844.png" alt="Isometric Room 1" width="500px"/>
     </td>
     <td align="center">
-      <img src="https://i.imghippo.com/files/FHyTU1728674874.png" alt="Project 2" width="500px"/>
+      <img src="https://i.imghippo.com/files/FHyTU1728674874.png" alt="Isometric Room 2" width="500px"/>
     </td>
     <td align="center">
-      <img src="https://i.imghippo.com/files/GBMe41728674888.png" alt="Project 3" width="500px"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://i.imghippo.com/files/Wc6jD1728674905.png" alt="Project 4" width="500px"/>
-    </td>
-    <td align="center">
-      <img src="https://i.imghippo.com/files/tK2ot1728674923.png" alt="Project 5" width="500px"/>
-    </td>
-    <td align="center">
-      <img src="https://i.imghippo.com/files/U5LoG1728674937.png" alt="Project 6" width="500px"/>
+      <img src="https://i.imghippo.com/files/GBMe41728674888.png" alt="Isometric Room 3" width="500px"/>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://i.imghippo.com/files/Uf55B1728674949.png" alt="Project 7" width="500px"/>
+      <img src="https://i.imghippo.com/files/Wc6jD1728674905.png" alt="Isometric Room 4" width="500px"/>
     </td>
     <td align="center">
-      <img src="https://i.imghippo.com/files/x7Iq21728674962.png" alt="Project 8" width="500px"/>
+      <img src="https://i.imghippo.com/files/tK2ot1728674923.png" alt="Isometric Room 5" width="500px"/>
     </td>
     <td align="center">
-      <img src="https://i.imghippo.com/files/fqXPH1728674976.png" alt="Project 9" width="500px"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://i.imghippo.com/files/i5fej1728674991.png" alt="Project 10" width="500px"/>
-    </td>
-    <td align="center">
-      <img src="https://i.imghippo.com/files/ibUbl1728675002.png" alt="Project 11" width="500px"/>
-    </td>
-    <td align="center">
-      <img src="https://i.imghippo.com/files/Uicpn1728675013.png" alt="Project 12" width="500px"/>
+      <img src="https://i.imghippo.com/files/U5LoG1728674937.png" alt="Isometric Room 6" width="500px"/>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://i.imghippo.com/files/87jy31728675125.png" alt="Project 13" width="500px"/>
+      <img src="https://i.imghippo.com/files/Uf55B1728674949.png" alt="Isometric Room 7" width="500px"/>
     </td>
     <td align="center">
-      <img src="https://i.imghippo.com/files/3vGRA1728675143.png" alt="Project 14" width="500px"/>
+      <img src="https://i.imghippo.com/files/x7Iq21728674962.png" alt="Isometric Room 8" width="500px"/>
+    </td>
+    <td align="center">
+      <img src="https://i.imghippo.com/files/fqXPH1728674976.png" alt="Isometric Room 9" width="500px"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://i.imghippo.com/files/i5fej1728674991.png" alt="Isometric Room 10" width="500px"/>
+    </td>
+    <td align="center">
+      <img src="https://i.imghippo.com/files/ibUbl1728675002.png" alt="Isometric Room 11" width="500px"/>
+    </td>
+    <td align="center">
+      <img src="https://i.imghippo.com/files/Uicpn1728675013.png" alt="Isometric Room 12" width="500px"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://i.imghippo.com/files/87jy31728675125.png" alt="Isometric Room 13" width="500px"/>
+    </td>
+    <td align="center">
+      <img src="https://i.imghippo.com/files/3vGRA1728675143.png" alt="Isometric Room 14" width="500px"/>
     </td>
   </tr>
 </table>
@@ -250,13 +249,32 @@
 <table border="0">
   <tr>
     <td align="center">
-      <img src="URL_IMATGE_PROJECTE_4" alt="Project 4" width="800px"/>
+      <img src="https://i.imghippo.com/files/vFyaW1728676673.png" alt="Food 1" width="500px"/>
     </td>
     <td align="center">
-      <img src="URL_IMATGE_PROJECTE_5" alt="Project 5" width="800px"/>
+      <img src="https://i.imghippo.com/files/fqLmG1728676692.png" alt="Food 2" width="500px"/>
     </td>
     <td align="center">
-      <img src="URL_IMATGE_PROJECTE_6" alt="Project 6" width="800px"/>
+      <img src="https://i.imghippo.com/files/T6v041728676708.png" alt="Food 3" width="500px"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://i.imghippo.com/files/dX6QB1728676721.png" alt="Food 4" width="500px"/>
+    </td>
+    <td align="center">
+      <img src="https://i.imghippo.com/files/k9h5v1728676736.png" alt="Food 5" width="500px"/>
+    </td>
+    <td align="center">
+      <img src="https://i.imghippo.com/files/Sq69n1728676757.png" alt="Food 6" width="500px"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://i.imghippo.com/files/1G9G81728676789.png" alt="Food 7" width="500px"/>
+    </td>
+    <td align="center">
+      <img src="https://i.imghippo.com/files/EGTXd1728676800.png" alt="Food 8" width="500px"/>
     </td>
   </tr>
 </table>
@@ -265,31 +283,46 @@
 <table border="0">
   <tr>
     <td align="center">
-      <img src="URL_IMATGE_PROJECTE_7" alt="Project 7" width="800px"/>
+      <img src="https://i.imghippo.com/files/fSzAt1728677150.png" alt="Character 1" width="500px"/>
     </td>
     <td align="center">
-      <img src="URL_IMATGE_PROJECTE_8" alt="Project 8" width="800px"/>
+      <img src="https://i.imghippo.com/files/ry3bC1728677173.png" alt="Character 2" width="500px"/>
     </td>
     <td align="center">
-      <img src="URL_IMATGE_PROJECTE_9" alt="Project 9" width="800px"/>
+      <img src="https://i.imghippo.com/files/feQAO1728677185.png" alt="Character 3" width="500px"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://i.imghippo.com/files/CxeQp1728677195.png" alt="Character 4" width="500px"/>
+    </td>
+    <td align="center">
+      <img src="https://i.imghippo.com/files/GNUoJ1728677207.png" alt="Character 5" width="500px"/>
     </td>
   </tr>
 </table>
 
-### Animations
+<!--### Animations
 <table border="0">
   <tr>
     <td align="center">
-      <img src="URL_IMATGE_PROJECTE_10" alt="Project 10" width="800px"/>
+      <video width="500" controls>
+        <source src="https://i.imghippo.com/files/dEtLB1728677349.avi" type="video/avi">
+      </video>
     </td>
     <td align="center">
-      <img src="URL_IMATGE_PROJECTE_11" alt="Project 11" width="800px"/>
+      <video width="500" controls>
+        <source src="https://i.imghippo.com/files/MdzgX1728677384.mp4" type="video/mp4">
+      </video>
     </td>
     <td align="center">
-      <img src="URL_IMATGE_PROJECTE_12" alt="Project 12" width="800px"/>
+      <video width="500" controls>
+        <source src="https://i.imghippo.com/files/J9VZr1728677418.avi" type="video/avi">
+      </video>
     </td>
   </tr>
-</table>
+</table>-->
+
 
 
 ## 📫 Contact
