@@ -14,53 +14,83 @@
 
 ## 🛠️ Skills & Technologies
 
-**Programming Languages**
-<br>
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23150458.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Matlab](https://img.shields.io/badge/Matlab-%230C55A5.svg?style=for-the-badge&logo=matlab&logoColor=white)
+<table>
+  <tr>
+    <th>Programming Languages</th>
+    <th>Frameworks, Platforms & Libraries</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <br>
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+      <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+      <img src="https://img.shields.io/badge/c%23-%23150458.svg?style=for-the-badge&logo=csharp&logoColor=white">
+      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+      <img src="https://img.shields.io/badge/Matlab-%230C55A5.svg?style=for-the-badge&logo=matlab&logoColor=white">
+    </td>
+    <td align="center">
+      <br>
+      <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+      <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+      <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white">
+      <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
+      <img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black">
+      <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black">
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
+    </td>
+  </tr>
 
-**Frameworks, Platforms & Libraries**
-<br>
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
-![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+  <tr>
+    <th>Collaborative Development Tools</th>
+    <th>Development Environments</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <br>
+      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+    </td>
+    <td align="center">
+      <br>
+      <img src="https://img.shields.io/badge/Unity-%23121011.svg?style=for-the-badge&logo=unity&logoColor=white">
+      <img src="https://img.shields.io/badge/VisualStudio-%23150458.svg?style=for-the-badge&logo=visualstudio&logoColor=white">
+      <img src="https://img.shields.io/badge/VisualStudioCode-%230db7ed.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+    </td>
+  </tr>
 
-**Collaborative Development Tools**
-<br>
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  <tr>
+    <th>Cloud Services</th>
+    <th>Database Systems</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <br>
+      <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+    </td>
+    <td align="center">
+      <br>
+      <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+    </td>
+  </tr>
 
-**Development Environments**
-<br>
-![Unity](https://img.shields.io/badge/Unity-%23121011.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/VisualStudio-%23150458.svg?style=for-the-badge&logo=visualstudio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-%230db7ed.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-**Cloud Services**
-<br>
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-**Database Systems**
-<br>
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Hardware & Electronics**
-<br>
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
-**Design & Prototyping Tools**
-<br>
-![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+  <tr>
+    <th>Hardware & Electronics</th>
+    <th>Design & Prototyping Tools</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <br>
+      <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
+    </td>
+    <td align="center">
+      <br>
+      <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
+      <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+      <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
+    </td>
+  </tr>
+</table>
 
 ## 🖱️ Projects
 
