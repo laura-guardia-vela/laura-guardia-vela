@@ -194,3 +194,4 @@
 ## 📫 Contact
 - **Email**: lauraguardiavela2@gmail.com
 - **LinkedIn**: [Laura Guàrdia Vela](http://www.linkedin.com/in/laura-guàrdia-vela-425296296)
+- **Instagram**: [lauraa.blender](https://www.instagram.com/lauraa.blender/)
