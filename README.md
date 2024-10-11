@@ -99,7 +99,7 @@
 <td width="50%">
 <h3 align="center">A la Deriva</h3>
 <div align="center">
-<a href="https://github.com/laura-guardia-vela/A-la-Deriva" target="_blank"><img src="https://i.imghippo.com/files/m7RTR1726360644.png" alt="" border="0"></a>
+<a href="https://github.com/laura-guardia-vela/A-la-Deriva" target="_blank"><img src="https://i.imghippo.com/files/6q9BJ1728666777.png" alt="" border="0"></a>
 <p>
 <a href="https://github.com/laura-guardia-vela/A-la-Deriva" target="_blank">
 <img src="https://img.shields.io/badge/CODE-e2d0e9?style=for-the-badge&logo=github&logoColor=black">
