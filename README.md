@@ -63,3 +63,22 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ## 🖱️ Projects
+
+**Videogames**
+<td width="50%">
+<h3 align="center">BosCoop</h3>
+<div align="center">
+<a href="https://github.com/LauraGuardiaVela/FINAL-PROJECT-BOSCOOP" target="_blank"><img src="https://i.imghippo.com/files/m7RTR1726360644.png" alt="" border="0"></a>
+<p>
+<a href="https://github.com/LauraGuardiaVela/FINAL-PROJECT-BOSCOOP" target="_blank">
+<img src="https://img.shields.io/badge/CODE-e2d0e9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>Interactive system using <span style="color:#e2d0e9;"><strong>HTC Vive</strong></span> and developed with <span style="color:#e2d0e9;"><strong>Unity</strong></span> to promote cooperation between users in virtual environments. There are mini-games that activate different abilities of the human body, and users have to work together to complete the game.</p>
+</div>
+                                                                                      
+</td>
+
+**Software**
+
+**3D Artist**
