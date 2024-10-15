@@ -200,6 +200,21 @@
       </p>
       <p>A project that creates a machine learning model to classify animal sounds using a dataset from Freesound. It also includes dataset creation, audio processing, model development, and frontend development using <strong>Streamlit</strong>.</p>
     </td>
+    <td width="50%" align="center">
+      <h3 align="center">User interaction analysis on Zara's website. Creation, proposal and avaluation of an improved prototype done in Justinmind</h3>
+      <a href="https://drive.google.com/drive/folders/1SjxgbIQXDgtBluwOizuPIpll8A0AokeY?usp=drive_link" target="_blank">
+        <img src="https://i.imghippo.com/files/VRA701729019678.png" alt="Zara Image" width="80%" />
+      </a>
+      <p>
+        <a href="https://drive.google.com/drive/folders/1SjxgbIQXDgtBluwOizuPIpll8A0AokeY?usp=drive_link" target="_blank">
+        </a>
+        <a href="https://drive.google.com/drive/folders/1SjxgbIQXDgtBluwOizuPIpll8A0AokeY?usp=drive_link" target="_blank">
+          <img src="https://img.shields.io/badge/CODE-ffffff?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+      </p>
+      <p>A project that analyzes Zara website from a user interaction perspective and creates an improved prototype. Steps of the analysis are: Contextual Inquiry, Usability Questionnaire, Roles and Use Cases, Content Model and Navigation Map, Paper Prototypes and Keystroke Level Model, Final Digital Prototype, Usability Testing.</p>
+    </td>
+      
   </tr>
 
 
