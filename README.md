@@ -181,7 +181,7 @@
           <img src="https://img.shields.io/badge/CODE-1ee6df?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Badge">
         </a>
       </p>
-      <p>Chatbot for an imaginary cafeteria.</p>
+      <p>Chatbot for an imaginary cafeteria using DialogFlow.</p>
     </td>
   </tr>
     <tr>
