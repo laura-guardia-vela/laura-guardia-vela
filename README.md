@@ -184,6 +184,24 @@
       <p>Chatbot for an imaginary cafeteria.</p>
     </td>
   </tr>
+    <tr>
+    <td width="50%" align="center">
+      <h3 align="center">Animalia</h3>
+      <a href="https://github.com/AdriaJP02/Animalia-TTM-Project" target="_blank">
+        <img src="https://i.imghippo.com/files/jq5fl1728678037.png" alt="Animalia Image" width="80%" />
+      </a>
+      <p>
+        <a href="https://drive.google.com/file/d/1a9psHO2EHbwON3D7BCuOylEkHfDrlKnI/view?usp=sharing" target="_blank">
+          <img src="https://img.shields.io/badge/YOUTUBE-2a6ec2?style=for-the-badge&logo=youtube&logoColor=white">
+        </a>
+        <a href="https://github.com/AdriaJP02/Animalia-TTM-Project" target="_blank">
+          <img src="https://img.shields.io/badge/CODE-52a5f6?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+      </p>
+      <p>A project that creates a machine learning model to classify animal sounds using a dataset from Freesound. It also includes dataset creation, audio processing, model development, and frontend development using <strong>Streamlit</strong>.</p>
+    </td>
+  </tr>
+
 
 </table>
 
