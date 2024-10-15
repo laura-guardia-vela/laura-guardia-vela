@@ -216,7 +216,25 @@
     </td>
       
   </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3 align="center">Leveraging Human-Computer Interaction Technologies to Combat Sexual Assault: A Design Challenge for Achieving Sustainable Development Goal</h3>
+      <a href="https://drive.google.com/drive/folders/10Ci02rqbWazTRFiiF5XWZo2HV7LnwTlM?usp=drive_link" target="_blank">
+        <img src="https://i.imghippo.com/files/7BfXP1729024687.png" alt="Animalia Image" width="80%" />
+      </a>
+      <p>
+        <a href="https://drive.google.com/file/d/1j6XueHCB5nlsMWcO9mLrbOlzI_UvMU6v/view?usp=drive_link" target="_blank">
+          <img src="https://img.shields.io/badge/DEMO-c44ecf?style=for-the-badge&logo=youtube&logoColor=white">
+        </a>
+        <a href="https://drive.google.com/drive/folders/10Ci02rqbWazTRFiiF5XWZo2HV7LnwTlM?usp=drive_link" target="_blank">
+          <img src="https://img.shields.io/badge/REPORT AND CODE-f4b4fa?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+      </p>
+      <p>SafeStreet is an innovative solution aimed at reducing sexual assault against women in public spaces by integrating a mobile app and a smart wearable bracelet. This project leverages <strong>Human-Computer Interaction (HCI)</strong> technologies to offer real-time protection and enhance user safety. Designed with the Sustainable Development Goals (SDGs) in mind, particularly those related to gender equality and safe public spaces, SafeStreet empowers women to feel safer on city streets.
 
+The solution merges two core components: a mobile application (built with <strong>AppInventor</strong>) and a wearable bracelet (prototyped with <strong>Arduino</strong>). The app helps users find the safest routes in urban areas and connects them with a community of women, while the bracelet monitors physiological signs of distress, triggering an emergency response system when necessary.</p>
+    </td>
+    </tr>
 
 </table>
 
