@@ -109,7 +109,7 @@
           <img src="https://img.shields.io/badge/Download%20ZIP-808080?style=for-the-badge&logo=&logoColor=white" alt="Download Badge">
         </a>
       </p>
-      <p>Design and development of three full-body experiences to analyze the embodied properties of users in a Mixed Reality system to reduce the system’s physical footprint.</p>
+      <p>Design and development of three full-body experiences to analyze the embodied properties of users in a <strong>Mixed Reality</strong>strong> system to reduce the system’s physical footprint.</p>
     </td>
     <td width="50%" align="center">
       <h3>BosCoop</h3>
@@ -121,7 +121,7 @@
           <img src="https://img.shields.io/badge/CODE-e2d0e9?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Badge">
         </a>
       </p>
-      <p>Interactive system using HTC Vive and Unity to promote cooperation between users in virtual environments with mini-games.</p>
+      <p>Interactive system using <strong>HTC Vive and Unity</strong> to promote cooperation between users in virtual environments with mini-games.</p>
     </td>
   </tr>
 
@@ -139,7 +139,7 @@
           <img src="https://img.shields.io/badge/Download%20ZIP-e47ba3?style=for-the-badge&logo=&logoColor=white" alt="Download Badge">
         </a>
       </p>
-      <p>A character visiting Willy Wonka's factory who must return to the real world. Developed with C.</p>
+      <p>A character visiting Willy Wonka's factory who must return to the real world. Developed with <strong>C.</p></p>
     </td>
     <td width="50%" align="center">
       <h3>A la Deriva</h3>
@@ -154,7 +154,7 @@
           <img src="https://img.shields.io/badge/Download%20ZIP-008080?style=for-the-badge&logo=&logoColor=white" alt="Download Badge">
         </a>
       </p>
-      <p>A relaxing outer space setting where the player takes on the role of an astronaut searching for their companions. Developed in Unity.</p>
+      <p>A relaxing outer space setting where the player takes on the role of an astronaut searching for their companions. Developed in <strong>Unity</strong>.</p>
     </td>
   </tr>
 
@@ -169,7 +169,7 @@
           <img src="https://img.shields.io/badge/CODE-1e0ea5?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Badge">
         </a>
       </p>
-      <p>Statistical analysis on public and private healthcare expenditure and its correlation with life expectancy. Developed using Matlab.</p>
+      <p>Statistical analysis on public and private healthcare expenditure and its correlation with life expectancy. Developed using <strong>Matlab</strong>.</p>
     </td>
     <td width="50%" align="center">
       <h3>Chatbot</h3>
@@ -181,7 +181,7 @@
           <img src="https://img.shields.io/badge/CODE-1ee6df?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Badge">
         </a>
       </p>
-      <p>Chatbot for an imaginary cafeteria using DialogFlow.</p>
+      <p>Chatbot for an imaginary cafeteria using <strong>DialogFlow</strong>.</p>
     </td>
   </tr>
     <tr>
@@ -212,7 +212,7 @@
           <img src="https://img.shields.io/badge/CODE-ffffff?style=for-the-badge&logo=github&logoColor=white">
         </a>
       </p>
-      <p>A project that analyzes Zara website from a user interaction perspective and creates an improved prototype. Steps of the analysis are: Contextual Inquiry, Usability Questionnaire, Roles and Use Cases, Content Model and Navigation Map, Paper Prototypes and Keystroke Level Model, Final Digital Prototype, Usability Testing.</p>
+      <p>A project that analyzes Zara website from a user interaction perspective and creates an improved prototype (<strong>Justinmind</p>). Steps of the analysis are: Contextual Inquiry, Usability Questionnaire, Roles and Use Cases, Content Model and Navigation Map, Paper Prototypes and Keystroke Level Model, Final Digital Prototype, Usability Testing.</p>
     </td>
       
   </tr>
