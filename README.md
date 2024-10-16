@@ -198,7 +198,7 @@
           <img src="https://img.shields.io/badge/CODE-52a5f6?style=for-the-badge&logo=github&logoColor=white">
         </a>
       </p>
-      <p>A project that creates a machine learning model to classify animal sounds using a dataset from Freesound. It also includes dataset creation, audio processing, model development, and frontend development using <strong>Streamlit</strong>.</p>
+      <p>A project that creates a machine learning model to classify animal sounds using a dataset from Freesound. It also includes dataset creation, audio processing, model development, and frontend development using <strong>Streamlit</strong> in <strong>Python</strong>.</p>
     </td>
     <td width="50%" align="center">
       <h3 align="center">User interaction analysis on Zara's website. Creation, proposal and avaluation of an improved prototype done in Justinmind</h3>
