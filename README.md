@@ -212,7 +212,7 @@
           <img src="https://img.shields.io/badge/CODE-ffffff?style=for-the-badge&logo=github&logoColor=white">
         </a>
       </p>
-      <p>A project that analyzes Zara website from a user interaction perspective and creates an improved prototype (<strong>Justinmind</p>). Steps of the analysis are: Contextual Inquiry, Usability Questionnaire, Roles and Use Cases, Content Model and Navigation Map, Paper Prototypes and Keystroke Level Model, Final Digital Prototype, Usability Testing.</p>
+      <p>A project that analyzes Zara website from a user interaction perspective and creates an improved prototype (<strong>Justinmind</strong>).</p> Steps of the analysis are: Contextual Inquiry, Usability Questionnaire, Roles and Use Cases, Content Model and Navigation Map, Paper Prototypes and Keystroke Level Model, Final Digital Prototype, Usability Testing.</p>
     </td>
       
   </tr>
